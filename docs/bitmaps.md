@@ -134,6 +134,6 @@ async function getRetainedUserCount(dateA, dateB) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/bitmap/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/bitmap/basic.js)**: Raw Bitmap commands (`SETBIT`, `GETBIT`, `BITCOUNT`, `BITOP`).
-* 🗂️ **[example/bitmap/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/bitmap/placeholder-api.js)**: Caching status checks using space-efficient bit masks.
-* 🗂️ **[example/bitmap/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/bitmap/mysql-cache.js)**: Tracking and caching user active status logs.
+* 🗂️ **[example/bitmap/basic.js](../example/bitmap/basic.js)**: Raw Bitmap commands (`SETBIT`, `GETBIT`, `BITCOUNT`, `BITOP`).
+* 🗂️ **[example/bitmap/placeholder-api.js](../example/bitmap/placeholder-api.js)**: Caching status checks using space-efficient bit masks.
+* 🗂️ **[example/bitmap/mysql-cache.js](../example/bitmap/mysql-cache.js)**: Tracking and caching user active status logs.

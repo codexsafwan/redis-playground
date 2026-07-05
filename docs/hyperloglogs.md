@@ -130,6 +130,6 @@ async function getCategoryUniqueViews(categoryName, videoIdsArray) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/hyperloglog/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/hyperloglog/basic.js)**: Raw HyperLogLog commands (`PFADD`, `PFCOUNT`, `PFMERGE`).
-* 🗂️ **[example/hyperloglog/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/hyperloglog/placeholder-api.js)**: Estimating unique visitor client queries.
-* 🗂️ **[example/hyperloglog/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/hyperloglog/mysql-cache.js)**: Tracking unique item access log statistics.
+* 🗂️ **[example/hyperloglog/basic.js](../example/hyperloglog/basic.js)**: Raw HyperLogLog commands (`PFADD`, `PFCOUNT`, `PFMERGE`).
+* 🗂️ **[example/hyperloglog/placeholder-api.js](../example/hyperloglog/placeholder-api.js)**: Estimating unique visitor client queries.
+* 🗂️ **[example/hyperloglog/mysql-cache.js](../example/hyperloglog/mysql-cache.js)**: Tracking unique item access log statistics.

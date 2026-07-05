@@ -120,6 +120,6 @@ async function recommendFriends(targetUser, friendUser) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/set/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/set/basic.js)**: Raw Redis Set commands (`SADD`, `SREM`, `SISMEMBER`, `SMEMBERS`, `SINTER`, `SUNION`, `SDIFF`).
-* 🗂️ **[example/set/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/set/placeholder-api.js)**: Tracking unique visited entity categories/tags.
-* 🗂️ **[example/set/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/set/mysql-cache.js)**: Managing and caching user group permissions.
+* 🗂️ **[example/set/basic.js](../example/set/basic.js)**: Raw Redis Set commands (`SADD`, `SREM`, `SISMEMBER`, `SMEMBERS`, `SINTER`, `SUNION`, `SDIFF`).
+* 🗂️ **[example/set/placeholder-api.js](../example/set/placeholder-api.js)**: Tracking unique visited entity categories/tags.
+* 🗂️ **[example/set/mysql-cache.js](../example/set/mysql-cache.js)**: Managing and caching user group permissions.

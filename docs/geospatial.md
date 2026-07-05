@@ -127,6 +127,6 @@ async function removeCab(cabId) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/geospatial/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/geospatial/basic.js)**: Raw Geospatial commands (`GEOADD`, `GEODIST`, `GEOPOS`, `GEOSEARCH`, `ZREM`).
-* 🗂️ **[example/geospatial/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/geospatial/placeholder-api.js)**: Nearby photo-shoot location coordinates search.
-* 🗂️ **[example/geospatial/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/geospatial/mysql-cache.js)**: Proximity checking and caching of retail store branches from database.
+* 🗂️ **[example/geospatial/basic.js](../example/geospatial/basic.js)**: Raw Geospatial commands (`GEOADD`, `GEODIST`, `GEOPOS`, `GEOSEARCH`, `ZREM`).
+* 🗂️ **[example/geospatial/placeholder-api.js](../example/geospatial/placeholder-api.js)**: Nearby photo-shoot location coordinates search.
+* 🗂️ **[example/geospatial/mysql-cache.js](../example/geospatial/mysql-cache.js)**: Proximity checking and caching of retail store branches from database.

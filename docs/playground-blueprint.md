@@ -5,7 +5,7 @@ This document serves as a step-by-step developer guide on how to build the **3-f
 ---
 
 ## ⚙️ The Centralized Configuration Zone (`config.js`)
-To avoid hardcoding port mappings and duplicate database connections in every exercise, the root directory contains a centralized [config.js](file:///Users/safwan/Documents/work/learn/redis-playground/config.js). Every file imports its dependencies and ports from this file.
+To avoid hardcoding port mappings and duplicate database connections in every exercise, the root directory contains a centralized [config.js](../config.js). Every file imports its dependencies and ports from this file.
 
 ```javascript
 // config.js (Root Level)

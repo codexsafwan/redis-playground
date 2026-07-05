@@ -165,6 +165,6 @@ async function startConsumer(consumerName) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/stream/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/stream/basic.js)**: Raw Stream commands (`XADD`, `XREAD`, `XRANGE`, `XGROUP`, `XREADGROUP`, `XACK`).
-* 🗂️ **[example/stream/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/stream/placeholder-api.js)**: Log events pipeline for querying external mock endpoints.
-* 🗂️ **[example/stream/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/stream/mysql-cache.js)**: Relational DB mutation streaming and consumer queueing.
+* 🗂️ **[example/stream/basic.js](../example/stream/basic.js)**: Raw Stream commands (`XADD`, `XREAD`, `XRANGE`, `XGROUP`, `XREADGROUP`, `XACK`).
+* 🗂️ **[example/stream/placeholder-api.js](../example/stream/placeholder-api.js)**: Log events pipeline for querying external mock endpoints.
+* 🗂️ **[example/stream/mysql-cache.js](../example/stream/mysql-cache.js)**: Relational DB mutation streaming and consumer queueing.

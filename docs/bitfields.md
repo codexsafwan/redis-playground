@@ -146,6 +146,6 @@ async function modifyStats(playerId, levelDiff, goldDiff) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/bitfield/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/bitfield/basic.js)**: Raw Bitfield commands (`BITFIELD` get, set, incrby with `OVERFLOW` limits).
-* 🗂️ **[example/bitfield/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/bitfield/placeholder-api.js)**: Storing telemetry status codes in packed bitfields.
-* 🗂️ **[example/bitfield/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/bitfield/mysql-cache.js)**: Binary-efficient database audit flag tracking.
+* 🗂️ **[example/bitfield/basic.js](../example/bitfield/basic.js)**: Raw Bitfield commands (`BITFIELD` get, set, incrby with `OVERFLOW` limits).
+* 🗂️ **[example/bitfield/placeholder-api.js](../example/bitfield/placeholder-api.js)**: Storing telemetry status codes in packed bitfields.
+* 🗂️ **[example/bitfield/mysql-cache.js](../example/bitfield/mysql-cache.js)**: Binary-efficient database audit flag tracking.

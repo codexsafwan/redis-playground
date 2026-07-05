@@ -111,6 +111,6 @@ async function isRateLimited(userId, limit = 100, windowSeconds = 60) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/string/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/string/basic.js)**: Raw Redis String commands (`SET`, `GET`, `INCR`, `EXPIRE`).
-* 🗂️ **[example/string/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/string/placeholder-api.js)**: Caching external placeholders with TTL.
-* 🗂️ **[example/string/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/string/mysql-cache.js)**: Relational DB caching (MySQL + Redis String Cache-Aside and Invalidation).
+* 🗂️ **[example/string/basic.js](../example/string/basic.js)**: Raw Redis String commands (`SET`, `GET`, `INCR`, `EXPIRE`).
+* 🗂️ **[example/string/placeholder-api.js](../example/string/placeholder-api.js)**: Caching external placeholders with TTL.
+* 🗂️ **[example/string/mysql-cache.js](../example/string/mysql-cache.js)**: Relational DB caching (MySQL + Redis String Cache-Aside and Invalidation).

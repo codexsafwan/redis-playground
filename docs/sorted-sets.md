@@ -131,6 +131,6 @@ async function pollDelayedJobs() {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/sorted-set/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/sorted-set/basic.js)**: Raw Sorted Set commands (`ZADD`, `ZREM`, `ZRANGE`, `ZREVRANGE`, `ZSCORE`, `ZRANK`, `ZINCRBY`).
-* 🗂️ **[example/sorted-set/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/sorted-set/placeholder-api.js)**: Real-time leaderboard for post views count.
-* 🗂️ **[example/sorted-set/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/sorted-set/mysql-cache.js)**: Paginated search results ranking and caching.
+* 🗂️ **[example/sorted-set/basic.js](../example/sorted-set/basic.js)**: Raw Sorted Set commands (`ZADD`, `ZREM`, `ZRANGE`, `ZREVRANGE`, `ZSCORE`, `ZRANK`, `ZINCRBY`).
+* 🗂️ **[example/sorted-set/placeholder-api.js](../example/sorted-set/placeholder-api.js)**: Real-time leaderboard for post views count.
+* 🗂️ **[example/sorted-set/mysql-cache.js](../example/sorted-set/mysql-cache.js)**: Paginated search results ranking and caching.

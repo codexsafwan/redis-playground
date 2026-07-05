@@ -248,6 +248,6 @@ sub.on('pmessage', (pattern, channel, expiredKey) => {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files demonstrating advanced Redis features:
-* 🗂️ **[example/advanced/rate-limiter.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/advanced/rate-limiter.js)**: Rate limiting endpoints using Fixed Window, Sliding Window Log, and Lua Token Bucket.
-* 🗂️ **[example/advanced/transactions.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/advanced/transactions.js)**: Benchmarking Pipeline speed versus credits transfer Transactions (MULTI/EXEC/WATCH).
-* 🗂️ **[example/advanced/pubsub.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/advanced/pubsub.js)**: Standard Pub/Sub publisher/subscriber and real-time Keyspace Expiry notifications handler.
+* 🗂️ **[example/advanced/rate-limiter.js](../example/advanced/rate-limiter.js)**: Rate limiting endpoints using Fixed Window, Sliding Window Log, and Lua Token Bucket.
+* 🗂️ **[example/advanced/transactions.js](../example/advanced/transactions.js)**: Benchmarking Pipeline speed versus credits transfer Transactions (MULTI/EXEC/WATCH).
+* 🗂️ **[example/advanced/pubsub.js](../example/advanced/pubsub.js)**: Standard Pub/Sub publisher/subscriber and real-time Keyspace Expiry notifications handler.

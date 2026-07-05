@@ -124,6 +124,6 @@ async function startWorker() {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/list/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/list/basic.js)**: Raw Redis List commands (`LPUSH`, `RPUSH`, `LPOP`, `RPOP`, `LRANGE`, `LTRIM`, `LLEN`).
-* 🗂️ **[example/list/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/list/placeholder-api.js)**: Logging API query history in a capped Redis List.
-* 🗂️ **[example/list/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/list/mysql-cache.js)**: Real-time database change auditing (MySQL + Redis List).
+* 🗂️ **[example/list/basic.js](../example/list/basic.js)**: Raw Redis List commands (`LPUSH`, `RPUSH`, `LPOP`, `RPOP`, `LRANGE`, `LTRIM`, `LLEN`).
+* 🗂️ **[example/list/placeholder-api.js](../example/list/placeholder-api.js)**: Logging API query history in a capped Redis List.
+* 🗂️ **[example/list/mysql-cache.js](../example/list/mysql-cache.js)**: Real-time database change auditing (MySQL + Redis List).

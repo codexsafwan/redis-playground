@@ -136,6 +136,6 @@ async function getCart(userId) {
 
 ## 🛠️ Practice Exercise Code
 Check out the fully functional Express API files in this playground:
-* 🗂️ **[example/hash/basic.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/hash/basic.js)**: Raw Hash commands (`HSET`, `HGET`, `HGETALL`, `HDEL`, `HEXISTS`, `HMGET`, `HINCRBY`).
-* 🗂️ **[example/hash/placeholder-api.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/hash/placeholder-api.js)**: Caching structured JSON Placeholder entities inside Redis Hashes.
-* 🗂️ **[example/hash/mysql-cache.js](file:///Users/safwan/Documents/work/learn/redis-playground/example/hash/mysql-cache.js)**: Object caching of MySQL database rows using Redis Hashes.
+* 🗂️ **[example/hash/basic.js](../example/hash/basic.js)**: Raw Hash commands (`HSET`, `HGET`, `HGETALL`, `HDEL`, `HEXISTS`, `HMGET`, `HINCRBY`).
+* 🗂️ **[example/hash/placeholder-api.js](../example/hash/placeholder-api.js)**: Caching structured JSON Placeholder entities inside Redis Hashes.
+* 🗂️ **[example/hash/mysql-cache.js](../example/hash/mysql-cache.js)**: Object caching of MySQL database rows using Redis Hashes.

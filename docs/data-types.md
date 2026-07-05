@@ -4,22 +4,22 @@ Redis is an in-memory, key-value data store. While keys are always strings, the 
 
 ### 📚 Detailed Specifications
 Click on any data type below to view its comprehensive specification (including Pros/Cons, Internals, Why/Where/When, and a real-world project architecture):
-* 📝 **[Strings Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/strings.md)**
-* 📋 **[Lists Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/lists.md)**
-* 🧼 **[Sets Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/sets.md)**
-* 🏆 **[Sorted Sets Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/sorted-sets.md)**
-* 🗺️ **[Hashes Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/hashes.md)**
-* 👾 **[Bitmaps Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/bitmaps.md)**
-* 📊 **[HyperLogLogs Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/hyperloglogs.md)**
-* 📍 **[Geospatial Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/geospatial.md)**
-* 🌊 **[Streams Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/streams.md)**
-* 🔢 **[Bitfields Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/bitfields.md)**
+* 📝 **[Strings Spec](../docs/strings.md)**
+* 📋 **[Lists Spec](../docs/lists.md)**
+* 🧼 **[Sets Spec](../docs/sets.md)**
+* 🏆 **[Sorted Sets Spec](../docs/sorted-sets.md)**
+* 🗺️ **[Hashes Spec](../docs/hashes.md)**
+* 👾 **[Bitmaps Spec](../docs/bitmaps.md)**
+* 📊 **[HyperLogLogs Spec](../docs/hyperloglogs.md)**
+* 📍 **[Geospatial Spec](../docs/geospatial.md)**
+* 🌊 **[Streams Spec](../docs/streams.md)**
+* 🔢 **[Bitfields Spec](../docs/bitfields.md)**
 
 ### 🚀 Advanced Topics & Algorithms
-* 🧠 **[Rate Limiting, Lua Scripting, Transactions & Pub/Sub Spec](file:///Users/safwan/Documents/work/learn/redis-playground/docs/advanced-topics.md)**
+* 🧠 **[Rate Limiting, Lua Scripting, Transactions & Pub/Sub Spec](../docs/advanced-topics.md)**
 
 ### 🏗️ Practical Exercise Blueprints
-* 🛠️ **[Developer Blueprint: Creating 3-File Exercise Sets](file:///Users/safwan/Documents/work/learn/redis-playground/docs/playground-blueprint.md)**
+* 🛠️ **[Developer Blueprint: Creating 3-File Exercise Sets](../docs/playground-blueprint.md)**
 
 ---
 
@@ -500,7 +500,7 @@ async function bitfieldDemo() {
 ---
 
 ## 🚀 Next Steps: Advanced Redis
-Ready to dive deeper? Check out the **[Advanced Redis Guide](file:///Users/safwan/Documents/work/learn/redis-playground/docs/advanced-topics.md)** to learn about:
+Ready to dive deeper? Check out the **[Advanced Redis Guide](../docs/advanced-topics.md)** to learn about:
 * **Advanced Rate Limiting Algorithms** (Fixed Window vs. Sliding Window Log vs. Token Bucket)
 * **Atomic execution with Lua Scripting** (preventing race conditions)
 * **Pipelining and Transactions** (`MULTI`/`EXEC`/`WATCH`)
